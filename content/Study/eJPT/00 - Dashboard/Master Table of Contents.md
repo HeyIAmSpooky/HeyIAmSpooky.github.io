@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Master Table of Contents
 
 - [[DNS Enumeration]] 
@@ -35,8 +32,5 @@ dg-publish: true
 - [[Packet Analysis with Tshark]] 
 - [[Vulnerability Assessment Fundamentals]] 
 
-## References
-- [[Curated External Sources]]
-- [[Main/03 - Study Materials/eJPT/10 - Visual Diagrams/Index]]
 
 
