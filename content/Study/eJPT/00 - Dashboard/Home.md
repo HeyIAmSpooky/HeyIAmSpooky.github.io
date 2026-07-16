@@ -1,6 +1,4 @@
----
-dg-publish: true
----
+
 # eJPT and Pen Test Study Guide
 # Compiled and Organized by HeyIAmSpooky
 
@@ -11,7 +9,6 @@ dg-publish: true
 - [[Master Table of Contents]]
 - [[Exam Cram Guide]]
 - [[Command Dashboard]]
-- [[Curated External Sources]]
-- [[Main/03 - Study Materials/eJPT/10 - Visual Diagrams/Index]]
+
 
 
