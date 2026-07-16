@@ -1,0 +1,22 @@
+---
+dg-publish: true
+---
+- XOR
+	- UUIDs have dashes (`-` = `0x2d`) at fixed positions: **8, 13, 18, 23**
+	- Plaintext XOR key = ciphertext, but if we ciphertext XOR key we can get plaintext
+	- 0f4d27d40d1d70da171e24815c5121d1584838da584824ce5c4b2485594974d7034d7481
+		- Dashes of UUID Format
+			- Pos 1: 17
+			- Pos 2: 51
+			- Pos 3: 38
+			- Pos 4: ce
+		- XOR with known HEX Value (0x2d for dashes)
+			- 1: 3A
+			- 2: 7C
+			- 3: 15
+			- 5: E3
+		- Key for Decryption: 3a7c15e3
+		- Use Cyber Chef
+			- Source: From Hex
+			- XOR with key
+		

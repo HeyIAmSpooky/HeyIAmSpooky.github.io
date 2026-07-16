@@ -1,0 +1,22 @@
+---
+dg-publish: true
+---
+- What files and commands do Pentesters look for
+	- `/etc/passwd`
+		- Using `cat` will show list of user accounts 
+			- `john:x:1001:1001:John Smith:/home/john:/bin/bash`
+			- Fields
+				- Username
+				- Password Placeholder - x means its located in `/etc/shadow`
+				- User ID
+				- Group ID
+				- Full Name
+				- Home Directory
+				- Login Shell
+			- Accounts with `/bin/bash` or `bin sh` can login interactively and are the ones we care about for pentesting
+		- Using `head` will show the first ten lines of a file
+			- Can use the -n flag to specify the number of lines
+		- Using `tail` will show the last ten lines of a file
+			- Using -f flag follows a file in real time and new lines appear on your screen as they are written
+				- Used for watching log files live
+		- 
