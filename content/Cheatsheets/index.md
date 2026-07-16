@@ -5,7 +5,6 @@ title: Cheatsheets
 # 📋 Cheatsheets
 
 - [[Command-Dashboard]]
-- [[eJPT-High-Level-Cheatsheet]]
 - [[Exam-Cram-Guide]]
 - [[Linux-Commands]]
 - [[Windows-Commands]]
