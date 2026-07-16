@@ -4,4 +4,4 @@ title: Poster Images
 
 # 🖼 Poster Images
 
-Store screenshots and images for [[Poster]] here.
+Store screenshots and images for [[THM-Poster]] here.

@@ -4,4 +4,4 @@ title: Source Images
 
 # 🖼 Source Images
 
-Store screenshots and images for [[Source]] here.
+Store screenshots and images for [[THM-Source]] here.
