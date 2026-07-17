@@ -17,10 +17,4 @@ title: TryHackMe
 - [[THM-Check-Mate|Check Mate]]
 - [[THM-Operation-Promotion|Operation Promotion]]
 
-## Related Images
 
-- [[Images/Operation-Cold-Start/index|Operation Cold Start Images]]
-- [[Images/Poster/index|Poster Images]]
-- [[Images/Source/index|Source Images]]
-- [[Images/Brr/index|Brr Images]]
-- [[Images/Operation-Promotion/index|Operation Promotion Images]]
