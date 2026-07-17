@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Metasploit/Msfvenom and Payloads.md",
+                "file": "Templates/Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Msfvenom and Payloads"
+              "title": "Tools"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Metasploit/Msfvenom and Payloads.md",
+                "file": "Templates/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Msfvenom and Payloads"
+              "title": "Backlinks for Tools"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Metasploit/Msfvenom and Payloads.md",
+                "file": "Templates/Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Msfvenom and Payloads"
+              "title": "Outgoing links from Tools"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Metasploit/Msfvenom and Payloads.md",
+                "file": "Templates/Tools.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Msfvenom and Payloads"
+              "title": "Outline of Tools"
             }
           }
         ]
@@ -185,12 +185,16 @@
   },
   "active": "95ddd4fe3ad1ef29",
   "lastOpenFiles": [
+    "Tools/Hashcat.md",
+    "Tools/FFUF.md",
+    "Tools/Burp Suite.md",
+    "Tools/Burp.md",
+    "Tools/Bloodhound.md",
+    "Tools/index.md",
+    "Tools/Metasploit/Msfvenom and Payloads.md",
     "Tools/Metasploit/Resource Scripts.md",
     "Tools/Metasploit/Metasploit Enumeration and Scanning.md",
-    "Tools/index.md",
-    "Burp Suite.md",
     "Tools/Nikto.md",
-    "Tools/FFUF.md",
     "Tools/GoBuster.md",
     "Tools/NMAP.md",
     "Tools/Metasploit.md",
@@ -203,10 +207,7 @@
     "Tools/Hydra.md",
     "Cheatsheets/index 1.md",
     "index 1.md",
-    "Tools/Hashcat.md",
     "Tools/John.md",
-    "Tools/Burp.md",
-    "Tools/Bloodhound.md",
     "Templates/Tools.md",
     "Methodology/index.md"
   ]
