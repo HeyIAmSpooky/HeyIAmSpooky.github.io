@@ -1,0 +1,5 @@
+---
+title: GoBuster
+tags:
+  - Tool
+---

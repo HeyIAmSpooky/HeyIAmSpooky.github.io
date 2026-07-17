@@ -1,6 +1,8 @@
 ---
 title: Metasploit Enumeration and Scanning
 dg-publish: true
+tags:
+  - Tool
 ---
 
 # Metasploit Enumeration and Scanning

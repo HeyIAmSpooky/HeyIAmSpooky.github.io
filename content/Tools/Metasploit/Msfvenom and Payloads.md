@@ -1,6 +1,8 @@
 ---
 title: Msfvenom and Payloads
 dg-publish: true
+tags:
+  - Tool
 ---
 
 # Msfvenom and Payloads

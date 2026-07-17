@@ -1,0 +1,5 @@
+---
+title: Hashcat
+tags:
+  - Tool
+---

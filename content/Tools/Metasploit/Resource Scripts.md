@@ -1,6 +1,8 @@
 ---
 title: Resource Scripts
 dg-publish: true
+tags:
+  - Tool
 ---
 
 # Resource Scripts

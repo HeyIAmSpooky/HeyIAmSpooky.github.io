@@ -1,6 +1,8 @@
 ---
 title: Metasploit Framework
 dg-publish: true
+tags:
+  - Tool
 ---
 
 # Metasploit Framework

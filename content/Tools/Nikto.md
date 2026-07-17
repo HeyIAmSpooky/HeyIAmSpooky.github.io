@@ -1,0 +1,5 @@
+---
+title: Nikto
+tags:
+  - Tool
+---

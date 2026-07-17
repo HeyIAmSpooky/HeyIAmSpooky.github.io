@@ -1,12 +1,10 @@
 ---
-
-title: Tools
-
+title: Tools Index
+tags:
+  - Tool
 ---
 
 # 🛠 Tool Reference Library
-
-  
 
 Centralized collection of tools, commands, workflows, and references used throughout labs, certifications, and real-world assessments.
 

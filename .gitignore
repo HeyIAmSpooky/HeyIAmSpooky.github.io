@@ -11,3 +11,5 @@ private/
 replit.nix
 .quartz/
 quartz/cli/tui/dist/
+content/.obsidian/workspace.json
+content/.obsidian/workspace-mobile.json
