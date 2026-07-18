@@ -10,11 +10,11 @@ title: TryHackMe
 - [[THM-Operation-Cold-Start|Operation Cold Start]]
 - [[THM-Poster|Poster]]
 - [[THM-Source|Source]]
+- [[THM-Checkmate|Checkmate]]
 
 ## In Progress
 
 - [[THM-Brr|Brr]]
-- [[THM-Checkmate|Check Mate]]
 - [[THM-Operation-Promotion|Operation Promotion]]
 
 
