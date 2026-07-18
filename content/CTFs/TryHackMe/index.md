@@ -14,7 +14,7 @@ title: TryHackMe
 ## In Progress
 
 - [[THM-Brr|Brr]]
-- [[THM-Check-Mate|Check Mate]]
+- [[THM-Checkmate|Check Mate]]
 - [[THM-Operation-Promotion|Operation Promotion]]
 
 
