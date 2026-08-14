@@ -10,7 +10,7 @@ This section contains writeups, active rooms, challenge notes, and lab walkthrou
 
 - [[CTFs/TryHackMe/index|TryHackMe]]
 - [[CTFs/HackerDNA/index|HackerDNA]]
-
+- [[CTFs/HackTheBox/index|HackTheBox]]
 ## Suggested Writeup Format
 
 1. Summary
